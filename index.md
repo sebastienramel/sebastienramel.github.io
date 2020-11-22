@@ -1,3 +1,19 @@
+# Profile
+Mes travaux de recherche abordent principalement les problèmes de classification fiables impliquant des modèles capables de représenter l’ignorance, induite par une quantité limitée de données d'apprentissage. Dans ce contexte, j'ai en particulier étudié une approche formalisée dans le cadre de la théorie de l’évidence (également appelée théorie des fonctions de croyance), reposant sur une méthode pour l’inférence statistique et la prédiction développée dans ce cadre.
+# Etude
+# Expériences professionnelles
+# Doctorat
+# Récompenses
+# Publications
+# Exposés
+# Enseignement
+# Administratif
+# Compétences
+# Référents
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sebastienramel/sebastienramel.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
