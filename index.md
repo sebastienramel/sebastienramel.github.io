@@ -1,10 +1,16 @@
 # Information
 ![picture](https://github.com/sebastienramel/sebastienramel.github.io/blob/main/pictureweb.jpg)
+
 Sébastien Ramel
+
 Chercheur postdoctoral (Université d'Artois)
-mail : sebastienramel51@gmail.com
-tel : (+33)619983550
-nationalité : Française
+
+Mail : sebastienramel51@gmail.com
+
+Tel : (+33)619983550
+
+Nationalité : Française
+
 30 ans - Célibataire
 
 # Profile
