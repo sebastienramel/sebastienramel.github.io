@@ -62,7 +62,7 @@ Manuscrit : [Lien](http://www.theses.fr/s164653)
 
 3. [Séminaire](https://www.lgi2a.univ-artois.fr/spip/en/seminars/sebastien-ramel-2020-04-10) intitulé _Régression logistique crédibiliste : application à l’étalonnage actif de classifieurs et extension choquistique_, présenté au LGI2A le 10 Avril 2020.
 
-# Enseignement
+# Enseignements
 09/19-07/20 **Attaché Temporaire d'Enseignement et de Recherche (ATER)**
 192 heures d'enseignement effectuées à l’IUT de Béthune (Université d'Artois) et réparties comme suit :
 * Département Génie Électrique et Informatique Industriel (GEII)
@@ -80,51 +80,25 @@ Manuscrit : [Lien](http://www.theses.fr/s164653)
 09/17-07/18 **Missions doctorales**
 64 heures d'enseignement effectuées à l'Université d'Artois ainsi partagées :
 * Master 1 Génie Industriel et Logistique (GIL), Faculté des Sciences Appliquées (Université d'Artois) 
-- Prévisions, 18h de TD (méthodes statistiques pour la planification logistique : régression, corrélation, séries temporelles)
+	- Prévisions, 18h de TD (méthodes statistiques pour la planification logistique : régression, corrélation, séries temporelles)
 * IUT R&T (Université d'Artois)
-- Initiation au développement web, 46h de TP
+	- Initiation au développement web, 46h de TP
 
 # Administratif
+2017 Organisateur de la septième journée régionale des doctorants en génie informatique, automatique et traitement du signal ([JRDA2017](https://www.lgi2a.univ-artois.fr/events/jrda2017/) le 30 juin 2017
+
 # Compétences
+Programmation 
+* procédurale : C, C#, Matlab, R   
+* orientée objet : java, python, C++, visual basic, ada
+* web : HTML, CSS,PHH, javascript, VB.NET
+Systèmes d'exploitation : Windows, Linux (Debian, Ubuntu)
+Bases de données :  Oracle, Acces,MySQL
+Bureautique : Microsoft Office, LibreOffice, LaTeX 
+Analyse de données : Analyse en composantes principales, Apprentissage automatique, Réseaux de neurones, Séparateurs Vaste Marge, Chaînes de Markov Cachées
+Traitement du signal : Observateurs et filtre de Kalman, commande par platitude, contrôle optimal
+
 # Référents
 
 
 
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/sebastienramel/sebastienramel.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sebastienramel/sebastienramel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
