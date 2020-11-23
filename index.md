@@ -51,12 +51,12 @@ Manuscrit : [Lien](http://www.theses.fr/s164653)
 1. S. Ramel, F. Pichon, F. Delmotte, [_Active evidential calibration of binary SVM classifiers_](https://smpsbelief2018.hds.utc.fr/wp-content/uploads/2018/09/programme_fin-2.pdf), Dans F. Cuzzolin, S. Destercke, T. Denoeux et A. Martin, éditeurs, Belief Functions : Theory and Applications, Proc. of the 5th International Conference, BELIEF 2018, Compiègne, France, 17-21 septembre 2018, Vol. 11069 de Lecture Notes in Computer Science, pp. 208-216, Springer, 2018.
 
 ## Conférences nationales avec comité de lecture
-1. S. Ramel, F. Pichon, F. Delmotte, [_Étalonnage évidentiel actif de classifieurs SVM_](https://www.lgi2a.univ-artois.fr/events/lfa2018/programme.html), Dans Rencontres Francophones sur la Logique Floue et ses Applications, LFA 2018, Arras, France, 8-9 novembre 2018, pp. 93-100, Cépaduès, 2018.[récompensé](https://www.lgi2a.univ-artois.fr/spip/fr/evenements/prix-du-meilleur-papier-doctorant-pour-sebastien-ramel-obtenu-a-lfa-2018) 
+1. S. Ramel, F. Pichon, F. Delmotte, [_Étalonnage évidentiel actif de classifieurs SVM_](https://www.lgi2a.univ-artois.fr/events/lfa2018/programme.html), Dans Rencontres Francophones sur la Logique Floue et ses Applications, LFA 2018, Arras, France, 8-9 novembre 2018, pp. 93-100, Cépaduès, 2018. [(récompensé)](https://www.lgi2a.univ-artois.fr/spip/fr/evenements/prix-du-meilleur-papier-doctorant-pour-sebastien-ramel-obtenu-a-lfa-2018) 
 	
 	
 
 # Exposés
-1. Exposé intitulé _Étalonnage actif de classifieurs binaires_, présenté au premier symposium du groupement de recherche MaDICS, Rennes, France, 26-28 juin 2019 [invité](https://www.madics.fr/event/titre1551974198-3309/)
+1. Exposé intitulé _Étalonnage actif de classifieurs binaires_, présenté au premier symposium du groupement de recherche MaDICS, Rennes, France, 26-28 juin 2019.  [(invité)](https://www.madics.fr/event/titre1551974198-3309/)
 
 2. Poster intitulé _Stacking binary classifiers using evidential choquistic regression_, présenté à la cinquième école sur la théorie et l'application des fonctions de croyance ([BFTA2019](https://bfasociety.org/BFTA2019/)), Sienne, Italie, 27-31 octobre 2019
 
