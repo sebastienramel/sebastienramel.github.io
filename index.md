@@ -29,9 +29,9 @@ Titre : Régression logistique crédibiliste : application à l’étalonnage ac
 
 Jury :
 
- -Rapporteurs : Michèle Rombaut (Professeur à l’Université de Grenoble Alpes), Benjamin Quost (Maître de conférence HDR, à l’Université de Technologie de Compiègne), 
+ * Rapporteurs : Michèle Rombaut (Professeur à l’Université de Grenoble Alpes), Benjamin Quost (Maître de conférence HDR, à l’Université de Technologie de Compiègne), 
  
- -Examinateurs : Olivier Colot (Professeur à l'Université de Lille 1, Président), Sébastien Destercke (Chargé de recherche HDR au CNRS), Directeurs : François Delmotte (Professeur à l'Université d'Artois),Frédéric Pichon (Maître de conférence (HDR) à l'Université d'Artois)
+ * Examinateurs : Olivier Colot (Professeur à l'Université de Lille 1, Président), Sébastien Destercke (Chargé de recherche HDR au CNRS), Directeurs : François Delmotte (Professeur à l'Université d'Artois),Frédéric Pichon (Maître de conférence (HDR) à l'Université d'Artois)
  
 Description :  Les méthodes utilisées pour l'inférence statistique et la prédiction en classification sont fréquemment formalisées dans le cadre théorique des probabilités. En revanche ces approches sont incapables de représenter l’ignorance (aussi connue sous le nom d’incertitude épistémique ou réductible) impliquée dans les prédictions, alors que cette aptitude peut s'avérer cruciale dans des problèmes de classification critiques. Au cours de mes travaux de thèse, j'ai abordé le problème de la représentation de l'ignorance prédictive au moyen de modèles de classification probabilistes étendus au cadre de la théorie de l’évidence. Dans ce contexte, j'ai notamment étudié l’intérêt de cette extension pour l’apprentissage actif appliqué à l’étalonnage de classifieurs et j'ai proposé l'extension crédibliste d'une variante non-linéaire de la régression logistique apportée par l'intégrale de Choquet
 
@@ -40,9 +40,50 @@ Financement : Union européenne avec le Fonds européen de développement régio
 Manuscrit : [Lien](http://www.theses.fr/s164653)
 
 # Récompenses
+2018  [Prix du meilleur article doctorant](https://www.lgi2a.univ-artois.fr/spip/fr/evenements/prix-du-meilleur-papier-doctorant-pour-sebastien-ramel-obtenu-a-lfa-2018), décerné par le comité de pilotage de la conférence [LFA 2018](https://www.lgi2a.univ-artois.fr/events/lfa2018/), pour l'article intitulé : _Étalonnage évidentiel actif de classifieurs SVM_, co-écrit avec F. Pichon et F. Delmotte
+
 # Publications
+
+## Revues internationales avec comité de lecture
+1.	S. Ramel, F. Pichon, F. Delmotte,[_A Reliable Version of Choquistic Regression based on Evidence Theory_](https://www.sciencedirect.com/science/article/abs/pii/S0950705120304482), Knowledge-Based Systems, Vol. 205, Octobre 2020.
+	
+## Conférences internationales avec comité de lecture
+1. S. Ramel, F. Pichon, F. Delmotte, [_Active evidential calibration of binary SVM classifiers_](https://smpsbelief2018.hds.utc.fr/wp-content/uploads/2018/09/programme_fin-2.pdf), Dans F. Cuzzolin, S. Destercke, T. Denoeux et A. Martin, éditeurs, Belief Functions : Theory and Applications, Proc. of the 5th International Conference, BELIEF 2018, Compiègne, France, 17-21 septembre 2018, Vol. 11069 de Lecture Notes in Computer Science, pp. 208-216, Springer, 2018.
+
+## Conférences nationales avec comité de lecture
+1. S. Ramel, F. Pichon, F. Delmotte, [_Étalonnage évidentiel actif de classifieurs SVM_](https://www.lgi2a.univ-artois.fr/events/lfa2018/programme.html), Dans Rencontres Francophones sur la Logique Floue et ses Applications, LFA 2018, Arras, France, 8-9 novembre 2018, pp. 93-100, Cépaduès, 2018.[récompensé](https://www.lgi2a.univ-artois.fr/spip/fr/evenements/prix-du-meilleur-papier-doctorant-pour-sebastien-ramel-obtenu-a-lfa-2018) 
+	
+	
+
 # Exposés
+1. Exposé intitulé _Étalonnage actif de classifieurs binaires_, présenté au premier symposium du groupement de recherche MaDICS, Rennes, France, 26-28 juin 2019 [invité](https://www.madics.fr/event/titre1551974198-3309/)
+
+2. Poster intitulé _Stacking binary classifiers using evidential choquistic regression_, présenté à la cinquième école sur la théorie et l'application des fonctions de croyance ([BFTA2019](https://bfasociety.org/BFTA2019/)), Sienne, Italie, 27-31 octobre 2019
+
+3. [Séminaire](https://www.lgi2a.univ-artois.fr/spip/en/seminars/sebastien-ramel-2020-04-10) intitulé _Régression logistique crédibiliste : application à l’étalonnage actif de classifieurs et extension choquistique_, présenté au LGI2A le 10 Avril 2020.
+
 # Enseignement
+09/19-07/20 **Attaché Temporaire d'Enseignement et de Recherche (ATER)**
+192 heures d'enseignement effectuées à l’IUT de Béthune (Université d'Artois) et réparties comme suit :
+* Département Génie Électrique et Informatique Industriel (GEII)
+-  Automatique, 24h de TP (systèmes linéaires du premier et du second ordre, stabilité, identification et régulation)
+	- Programmation Orientée Objet, 16h de TP (introduction à java, utilisation de l'IDE éclipse, notions d'héritage et d'interfaces)
+-  Réseaux, 24h de TP (programmation réseaux : sockets, threads, serveur http, analyses de trames IP)
+-  Supervision, 38h de TP (automatisme, systèmes à événements discrets, grafcet)
+* Département Réseaux & Télécommunications (R&T)
+-  Initiation au développement web, 6h de TD et 18h de TP (web statique HTML et CSS, standards W3C, librairie bootstrap)
+-  Base de la programmation, 6h de TD (algorithme, variables, boucles, opérations)
+-  Technologies de l’internet, 32h de TP (adressage et routage ipv4, modèles osi, tcp/ip et protocoles associés)
+-  Web Dynamique, 18h de TP (programmation serveur php, système de gestion de bases de données relationnelles MySQL)
+-  Programmation avancée, 10h de TP (encapsulation, héritage, interfaces, polymorphisme)
+
+09/17-07/18 **Missions doctorales**
+64 heures d'enseignement effectuées à l'Université d'Artois ainsi partagées :
+* Master 1 Génie Industriel et Logistique (GIL), Faculté des Sciences Appliquées (Université d'Artois) 
+- Prévisions, 18h de TD (méthodes statistiques pour la planification logistique : régression, corrélation, séries temporelles)
+* IUT R&T (Université d'Artois)
+- Initiation au développement web, 46h de TP
+
 # Administratif
 # Compétences
 # Référents
