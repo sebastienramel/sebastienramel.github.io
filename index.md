@@ -92,13 +92,43 @@ Programmation
 * procédurale : C, C#, Matlab, R   
 * orientée objet : java, python, C++, visual basic, ada
 * web : HTML, CSS,PHH, javascript, VB.NET
+
 Systèmes d'exploitation : Windows, Linux (Debian, Ubuntu)
+
 Bases de données :  Oracle, Acces,MySQL
+
 Bureautique : Microsoft Office, LibreOffice, LaTeX 
+
 Analyse de données : Analyse en composantes principales, Apprentissage automatique, Réseaux de neurones, Séparateurs Vaste Marge, Chaînes de Markov Cachées
+
 Traitement du signal : Observateurs et filtre de Kalman, commande par platitude, contrôle optimal
 
 # Référents
+
+**Frédéric Pichon**
+Maître de conférence (HDR)
+Laboratoire de Génie Informatique et Automatique de l'Artois (LGI2A) 
+Département Génie Industriel et Logistique
+Université d'Artois 
+62400, Béthune, France
+[frederic.pichon@univ-artois.fr](mailto:frederic.pichon@univ-artois.fr)
+
+**David Jouglet**
+Maître de conférence
+Institut Universitaire de Technologie
+Département Génie Électrique et Informatique Industriel\newline
+Université d'Artois
+62400, Béthune, France
+[david.jouglet@univ-artois.fr](mailto:david.jouglet@univ-artois.fr)
+
+
+**Bernard Riera**
+Professeur des Universités
+Centre de Recherche en Sciences et Technologies de l'Information et de la Communication (CReSTIC) 
+Département Automatique et Traitement du Signal
+Université de Reims Champagne-Ardenne
+51687, Reims, France
+[bernard.riera@univ-reims.fr](mailto:bernard.riera@univ-reims.fr)
 
 
 
