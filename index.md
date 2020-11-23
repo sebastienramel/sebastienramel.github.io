@@ -25,6 +25,18 @@ _En mission chez PSA au sein de la Filière Technique de Post Traitement pour la
 _Asservissement du Tramway Citadis X5 en accélération, et estimation de son niveau de charge_
 
 # Doctorat
+Titre : Régression logistique crédibiliste : application à l’étalonnage actif de classifieurs et extension choquistique
+
+Jury :
+ -Rapporteurs : Michèle Rombaut (Professeur à l’Université de Grenoble Alpes), Benjamin Quost (Maître de conférence HDR, à l’Université de Technologie de Compiègne), 
+ -Examinateurs : Olivier Colot (Professeur à l'Université de Lille 1, Président), Sébastien Destercke (Chargé de recherche HDR au CNRS), Directeurs : François Delmotte (Professeur à l'Université d'Artois),Frédéric Pichon (Maître de conférence (HDR) à l'Université d'Artois)
+ 
+Description :  Les méthodes utilisées pour l'inférence statistique et la prédiction en classification sont fréquemment formalisées dans le cadre théorique des probabilités. En revanche ces approches sont incapables de représenter l’ignorance (aussi connue sous le nom d’incertitude épistémique ou réductible) impliquée dans les prédictions, alors que cette aptitude peut s'avérer cruciale dans des problèmes de classification critiques. Au cours de mes travaux de thèse, j'ai abordé le problème de la représentation de l'ignorance prédictive au moyen de modèles de classification probabilistes étendus au cadre de la théorie de l’évidence. Dans ce contexte, j'ai notamment étudié l’intérêt de cette extension pour l’apprentissage actif appliqué à l’étalonnage de classifieurs et j'ai proposé l'extension crédibliste d'une variante non-linéaire de la régression logistique apportée par l'intégrale de Choquet
+
+Financement : Union européenne avec le Fonds européen de développement régional, l’État français et le Conseil régional des Hauts de France
+ 
+Manuscrit : [Lien](http://www.theses.fr/s164653)
+
 # Récompenses
 # Publications
 # Exposés
