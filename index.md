@@ -1,27 +1,27 @@
 # Profile
 Mes travaux de recherche abordent principalement les problèmes de classification fiables impliquant des modèles capables de représenter l’ignorance, induite par une quantité limitée de données d'apprentissage. Dans ce contexte, j'ai en particulier étudié une approche formalisée dans le cadre de la théorie de l’évidence (également appelée théorie des fonctions de croyance), reposant sur une méthode pour l’inférence statistique et la prédiction développée dans ce cadre.
 # Etude
-2016-2020 **Doctorat** en génie informatique et automatique de l'Université d'Artois, préparé au Laboratoire de Génie Informatique et Automatique de l'Artois [LGI2A](https://www.lgi2a.univ-artois.fr/spip/fr), Béthune, France
+2016-2020, **Doctorat** en génie informatique et automatique de l'Université d'Artois, préparé au Laboratoire de Génie Informatique et Automatique de l'Artois [LGI2A](https://www.lgi2a.univ-artois.fr/spip/fr), Béthune, France
 
-2008-2014 **Ingénieur** en informatique, École Centrale de Lille, département des systèmes intelligents et interconnectés [IG2I](https://ig2i.centralelille.fr/), Lens, France
+2008-2014, **Ingénieur** en informatique, École Centrale de Lille, département des systèmes intelligents et interconnectés [IG2I](https://ig2i.centralelille.fr/), Lens, France
 
-2008 **Baccalauréat S**, Pensionnat du Sacré-Cœur, Reims, France 
+2008, **Baccalauréat S**, Pensionnat du Sacré-Cœur, Reims, France 
 
 # Expériences professionnelles
-09/20-08/21 **Chercheur postdoctoral** (CDD 12 mois),  Université d'Artois, Laboratoire de Génie Informatique et Automatique de l'Artois (LGI2A), Béthune
+09/20-08/21, **Chercheur postdoctoral** (CDD 12 mois),  Université d'Artois, Laboratoire de Génie Informatique et Automatique de l'Artois (LGI2A), Béthune
 
-11/19-08/20 **Attaché Temporaire d'Enseignement et de Recherche** (CDD 10 mois), Université d'Artois,  Laboratoire de Génie Informatique et Automatique de l'Artois (LGI2A), Béthune
+11/19-08/20, **Attaché Temporaire d'Enseignement et de Recherche** (CDD 10 mois), Université d'Artois,  Laboratoire de Génie Informatique et Automatique de l'Artois (LGI2A), Béthune
 
-06/16-10/16 **Ingénieur consultant** (CDD 5 mois), SATT Nord en mission au Centre de Recherche en Sciences et Technologies de l'Information et de la Communication ([CReSTIC]((https://crestic.univ-reims.fr/)) de l'Université de Reims Champagne-Ardenne, Reims 
+06/16-10/16, **Ingénieur consultant** (CDD 5 mois), SATT Nord en mission au Centre de Recherche en Sciences et Technologies de l'Information et de la Communication ([CReSTIC]((https://crestic.univ-reims.fr/)) de l'Université de Reims Champagne-Ardenne, Reims 
 _Simulation de systèmes dynamiques continues pédagogiques pour l'apprentissage de l'automatique_
 
-06/15-05/16 **Ingénieur consultant** (CDI) ALTEN France, Boulogne-Billancourt
+06/15-05/16, **Ingénieur consultant** (CDI) ALTEN France, Boulogne-Billancourt
 _En mission chez PSA au sein de la Filière Technique de Post Traitement pour la certification anti pollution automobile_
 
-10/14-05/15 **Ingénieur d'étude** (CDD 8 mois), Université de Reims Champagne-Ardenne,   Centre de Recherche en Sciences et Technologies de l'Information et de la Communication ([CReSTIC](https://crestic.univ-reims.fr/)), Reims
+10/14-05/15, **Ingénieur d'étude** (CDD 8 mois), Université de Reims Champagne-Ardenne,   Centre de Recherche en Sciences et Technologies de l'Information et de la Communication ([CReSTIC](https://crestic.univ-reims.fr/)), Reims
  _Écriture de [ressources pédagogiques](https://docs.realgames.co/homeio/fr/resources-list/#ressources_complementaires) sur l'interfaçage de parties opératives simulées (développés par [Real Games](https://realgames.co/)) avec des composants extérieurs_ 
  
- 02/14-07/14 **Stage ingénieur** (CDD 6 mois), Alstom Transport, Aytre 
+ 02/14-07/14, **Stage ingénieur** (CDD 6 mois), Alstom Transport, Aytre 
 _Asservissement du Tramway Citadis X5 en accélération, et estimation de son niveau de charge_
 
 # Doctorat
@@ -40,12 +40,12 @@ Financement : Union européenne avec le Fonds européen de développement régio
 Manuscrit : [Lien](http://www.theses.fr/s164653)
 
 # Récompenses
-2018  [Prix du meilleur article doctorant](https://www.lgi2a.univ-artois.fr/spip/fr/evenements/prix-du-meilleur-papier-doctorant-pour-sebastien-ramel-obtenu-a-lfa-2018), décerné par le comité de pilotage de la conférence [LFA 2018](https://www.lgi2a.univ-artois.fr/events/lfa2018/), pour l'article intitulé : _Étalonnage évidentiel actif de classifieurs SVM_, co-écrit avec F. Pichon et F. Delmotte
+2018, [Prix du meilleur article doctorant](https://www.lgi2a.univ-artois.fr/spip/fr/evenements/prix-du-meilleur-papier-doctorant-pour-sebastien-ramel-obtenu-a-lfa-2018), décerné par le comité de pilotage de la conférence [LFA 2018](https://www.lgi2a.univ-artois.fr/events/lfa2018/), pour l'article intitulé : _Étalonnage évidentiel actif de classifieurs SVM_, co-écrit avec F. Pichon et F. Delmotte
 
 # Publications
 
 ## Revues internationales avec comité de lecture
-1.	S. Ramel, F. Pichon, F. Delmotte,[_A Reliable Version of Choquistic Regression based on Evidence Theory_](https://www.sciencedirect.com/science/article/abs/pii/S0950705120304482), Knowledge-Based Systems, Vol. 205, Octobre 2020.
+1. S. Ramel, F. Pichon, F. Delmotte,[_A Reliable Version of Choquistic Regression based on Evidence Theory_](https://www.sciencedirect.com/science/article/abs/pii/S0950705120304482), Knowledge-Based Systems, Vol. 205, Octobre 2020.
 	
 ## Conférences internationales avec comité de lecture
 1. S. Ramel, F. Pichon, F. Delmotte, [_Active evidential calibration of binary SVM classifiers_](https://smpsbelief2018.hds.utc.fr/wp-content/uploads/2018/09/programme_fin-2.pdf), Dans F. Cuzzolin, S. Destercke, T. Denoeux et A. Martin, éditeurs, Belief Functions : Theory and Applications, Proc. of the 5th International Conference, BELIEF 2018, Compiègne, France, 17-21 septembre 2018, Vol. 11069 de Lecture Notes in Computer Science, pp. 208-216, Springer, 2018.
@@ -63,7 +63,7 @@ Manuscrit : [Lien](http://www.theses.fr/s164653)
 3. [Séminaire](https://www.lgi2a.univ-artois.fr/spip/en/seminars/sebastien-ramel-2020-04-10) intitulé _Régression logistique crédibiliste : application à l’étalonnage actif de classifieurs et extension choquistique_, présenté au LGI2A le 10 Avril 2020.
 
 # Enseignements
-09/19-07/20 **Attaché Temporaire d'Enseignement et de Recherche (ATER)**
+09/19-07/20, **Attaché Temporaire d'Enseignement et de Recherche (ATER)**,
 192 heures d'enseignement effectuées à l’IUT de Béthune (Université d'Artois) et réparties comme suit :
 * Département Génie Électrique et Informatique Industriel (GEII)
 	- Automatique, 24h de TP (systèmes linéaires du premier et du second ordre, stabilité, identification et régulation)
@@ -77,7 +77,7 @@ Manuscrit : [Lien](http://www.theses.fr/s164653)
 	-  Web Dynamique, 18h de TP (programmation serveur php, système de gestion de bases de données relationnelles MySQL)
 	-  Programmation avancée, 10h de TP (encapsulation, héritage, interfaces, polymorphisme)
 
-09/17-07/18 **Missions doctorales**
+09/17-07/18, **Missions doctorales**,
 64 heures d'enseignement effectuées à l'Université d'Artois ainsi partagées :
 * Master 1 Génie Industriel et Logistique (GIL), Faculté des Sciences Appliquées (Université d'Artois) 
 	- Prévisions, 18h de TD (méthodes statistiques pour la planification logistique : régression, corrélation, séries temporelles)
@@ -85,7 +85,7 @@ Manuscrit : [Lien](http://www.theses.fr/s164653)
 	- Initiation au développement web, 46h de TP
 
 # Administratif
-2017 Organisateur de la septième journée régionale des doctorants en génie informatique, automatique et traitement du signal ([JRDA2017](https://www.lgi2a.univ-artois.fr/events/jrda2017/) le 30 juin 2017
+2017, Organisateur de la septième journée régionale des doctorants en génie informatique, automatique et traitement du signal ([JRDA2017](https://www.lgi2a.univ-artois.fr/events/jrda2017/) le 30 juin 2017
 
 # Compétences
 Programmation 
