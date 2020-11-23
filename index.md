@@ -1,5 +1,11 @@
 # Information
-![picture](https://www.lgi2a.univ-artois.fr/spip/IMG/personneon384.jpg)
+![picture](https://github.com/sebastienramel/sebastienramel.github.io/blob/main/pictureweb.jpg)
+Sébastien Ramel
+Chercheur postdoctoral (Université d'Artois)
+mail : sebastienramel51@gmail.com
+tel : (+33)619983550
+nationalité : Française
+30 ans - Célibataire
 
 # Profile
 Mes travaux de recherche abordent principalement les problèmes de classification fiables impliquant des modèles capables de représenter l’ignorance, induite par une quantité limitée de données d'apprentissage. Dans ce contexte, j'ai en particulier étudié une approche formalisée dans le cadre de la théorie de l’évidence (également appelée théorie des fonctions de croyance), reposant sur une méthode pour l’inférence statistique et la prédiction développée dans ce cadre.
