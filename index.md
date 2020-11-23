@@ -1,5 +1,5 @@
 # Information
-![picture](https://github.com/sebastienramel/sebastienramel.github.io/blob/main/pictureweb.jpg)
+![picture](pictureweb.jpg)
 
 Sébastien Ramel
 
