@@ -1,10 +1,4 @@
 # Information
-![picture](pictureweb.jpg)
-
-Sébastien Ramel
-
-Chercheur postdoctoral (Université d'Artois)
-
 Mail : sebastienramel51@gmail.com
 
 Tel : (+33)619983550
