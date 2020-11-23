@@ -66,16 +66,16 @@ Manuscrit : [Lien](http://www.theses.fr/s164653)
 09/19-07/20 **Attaché Temporaire d'Enseignement et de Recherche (ATER)**
 192 heures d'enseignement effectuées à l’IUT de Béthune (Université d'Artois) et réparties comme suit :
 * Département Génie Électrique et Informatique Industriel (GEII)
--  Automatique, 24h de TP (systèmes linéaires du premier et du second ordre, stabilité, identification et régulation)
+	- Automatique, 24h de TP (systèmes linéaires du premier et du second ordre, stabilité, identification et régulation)
 	- Programmation Orientée Objet, 16h de TP (introduction à java, utilisation de l'IDE éclipse, notions d'héritage et d'interfaces)
--  Réseaux, 24h de TP (programmation réseaux : sockets, threads, serveur http, analyses de trames IP)
--  Supervision, 38h de TP (automatisme, systèmes à événements discrets, grafcet)
+	-  Réseaux, 24h de TP (programmation réseaux : sockets, threads, serveur http, analyses de trames IP)
+	-  Supervision, 38h de TP (automatisme, systèmes à événements discrets, grafcet)
 * Département Réseaux & Télécommunications (R&T)
--  Initiation au développement web, 6h de TD et 18h de TP (web statique HTML et CSS, standards W3C, librairie bootstrap)
--  Base de la programmation, 6h de TD (algorithme, variables, boucles, opérations)
--  Technologies de l’internet, 32h de TP (adressage et routage ipv4, modèles osi, tcp/ip et protocoles associés)
--  Web Dynamique, 18h de TP (programmation serveur php, système de gestion de bases de données relationnelles MySQL)
--  Programmation avancée, 10h de TP (encapsulation, héritage, interfaces, polymorphisme)
+	-  Initiation au développement web, 6h de TD et 18h de TP (web statique HTML et CSS, standards W3C, librairie bootstrap)
+	-  Base de la programmation, 6h de TD (algorithme, variables, boucles, opérations)
+	-  Technologies de l’internet, 32h de TP (adressage et routage ipv4, modèles osi, tcp/ip et protocoles associés)
+	-  Web Dynamique, 18h de TP (programmation serveur php, système de gestion de bases de données relationnelles MySQL)
+	-  Programmation avancée, 10h de TP (encapsulation, héritage, interfaces, polymorphisme)
 
 09/17-07/18 **Missions doctorales**
 64 heures d'enseignement effectuées à l'Université d'Artois ainsi partagées :
