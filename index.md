@@ -12,7 +12,7 @@ Mes travaux de recherche abordent principalement les problèmes de classificatio
 
 11/19-08/20, **Attaché Temporaire d'Enseignement et de Recherche** (CDD 10 mois), Université d'Artois,  Laboratoire de Génie Informatique et Automatique de l'Artois (LGI2A), Béthune
 
-06/16-10/16, **Ingénieur consultant** (CDD 5 mois), SATT Nord en mission au Centre de Recherche en Sciences et Technologies de l'Information et de la Communication ([CReSTIC]((https://crestic.univ-reims.fr/)) de l'Université de Reims Champagne-Ardenne, Reims 
+06/16-10/16, **Ingénieur consultant** (CDD 5 mois), SATT Nord en mission au Centre de Recherche en Sciences et Technologies de l'Information et de la Communication ([CReSTIC](https://crestic.univ-reims.fr/)) de l'Université de Reims Champagne-Ardenne, Reims 
 _Simulation de systèmes dynamiques continues pédagogiques pour l'apprentissage de l'automatique_
 
 06/15-05/16, **Ingénieur consultant** (CDI) ALTEN France, Boulogne-Billancourt
