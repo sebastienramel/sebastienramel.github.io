@@ -25,19 +25,19 @@ _En mission chez PSA au sein de la Filière Technique de Post Traitement pour la
 _Asservissement du Tramway Citadis X5 en accélération, et estimation de son niveau de charge_
 
 # Doctorat
-Titre : Régression logistique crédibiliste : application à l’étalonnage actif de classifieurs et extension choquistique
+**Titre** : Régression logistique crédibiliste : application à l’étalonnage actif de classifieurs et extension choquistique
 
-Jury :
+**Jury** :
 
  * Rapporteurs : Michèle Rombaut (Professeur à l’Université de Grenoble Alpes), Benjamin Quost (Maître de conférence HDR, à l’Université de Technologie de Compiègne), 
  
  * Examinateurs : Olivier Colot (Professeur à l'Université de Lille 1, Président), Sébastien Destercke (Chargé de recherche HDR au CNRS), Directeurs : François Delmotte (Professeur à l'Université d'Artois),Frédéric Pichon (Maître de conférence (HDR) à l'Université d'Artois)
  
-Description :  Les méthodes utilisées pour l'inférence statistique et la prédiction en classification sont fréquemment formalisées dans le cadre théorique des probabilités. En revanche ces approches sont incapables de représenter l’ignorance (aussi connue sous le nom d’incertitude épistémique ou réductible) impliquée dans les prédictions, alors que cette aptitude peut s'avérer cruciale dans des problèmes de classification critiques. Au cours de mes travaux de thèse, j'ai abordé le problème de la représentation de l'ignorance prédictive au moyen de modèles de classification probabilistes étendus au cadre de la théorie de l’évidence. Dans ce contexte, j'ai notamment étudié l’intérêt de cette extension pour l’apprentissage actif appliqué à l’étalonnage de classifieurs et j'ai proposé l'extension crédibliste d'une variante non-linéaire de la régression logistique apportée par l'intégrale de Choquet
+**Description** :  Les méthodes utilisées pour l'inférence statistique et la prédiction en classification sont fréquemment formalisées dans le cadre théorique des probabilités. En revanche ces approches sont incapables de représenter l’ignorance (aussi connue sous le nom d’incertitude épistémique ou réductible) impliquée dans les prédictions, alors que cette aptitude peut s'avérer cruciale dans des problèmes de classification critiques. Au cours de mes travaux de thèse, j'ai abordé le problème de la représentation de l'ignorance prédictive au moyen de modèles de classification probabilistes étendus au cadre de la théorie de l’évidence. Dans ce contexte, j'ai notamment étudié l’intérêt de cette extension pour l’apprentissage actif appliqué à l’étalonnage de classifieurs et j'ai proposé l'extension crédibliste d'une variante non-linéaire de la régression logistique apportée par l'intégrale de Choquet
 
-Financement : Union européenne avec le Fonds européen de développement régional, l’État français et le Conseil régional des Hauts de France
+**Financement** : Union européenne avec le Fonds européen de développement régional, l’État français et le Conseil régional des Hauts de France
  
-Manuscrit : [Lien](http://www.theses.fr/s164653)
+**Manuscrit** : [Lien](http://www.theses.fr/s164653)
 
 # Récompenses
 2018, [Prix du meilleur article doctorant](https://www.lgi2a.univ-artois.fr/spip/fr/evenements/prix-du-meilleur-papier-doctorant-pour-sebastien-ramel-obtenu-a-lfa-2018), décerné par le comité de pilotage de la conférence [LFA 2018](https://www.lgi2a.univ-artois.fr/events/lfa2018/), pour l'article intitulé : _Étalonnage évidentiel actif de classifieurs SVM_, co-écrit avec F. Pichon et F. Delmotte
@@ -85,7 +85,7 @@ Manuscrit : [Lien](http://www.theses.fr/s164653)
 	- Initiation au développement web, 46h de TP
 
 # Administratif
-2017, Organisateur de la septième journée régionale des doctorants en génie informatique, automatique et traitement du signal ([JRDA2017](https://www.lgi2a.univ-artois.fr/events/jrda2017/) le 30 juin 2017
+2017, Organisateur de la septième journée régionale des doctorants en génie informatique, automatique et traitement du signal ([JRDA2017](https://www.lgi2a.univ-artois.fr/events/jrda2017/)) le 30 juin 2017
 
 # Compétences
 Programmation 
