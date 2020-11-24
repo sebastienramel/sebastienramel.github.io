@@ -45,7 +45,7 @@ _Asservissement du Tramway Citadis X5 en accélération, et estimation de son ni
 # Publications
 
 ## Revues internationales avec comité de lecture
-1. S. Ramel, F. Pichon, F. Delmotte,[_A Reliable Version of Choquistic Regression based on Evidence Theory_](https://www.sciencedirect.com/science/article/abs/pii/S0950705120304482), Knowledge-Based Systems, Vol. 205, Octobre 2020.
+1. S. Ramel, F. Pichon, F. Delmotte, [_A Reliable Version of Choquistic Regression based on Evidence Theory_](https://www.sciencedirect.com/science/article/abs/pii/S0950705120304482), Knowledge-Based Systems, Vol. 205, Octobre 2020.
 	
 ## Conférences internationales avec comité de lecture
 1. S. Ramel, F. Pichon, F. Delmotte, [_Active evidential calibration of binary SVM classifiers_](https://smpsbelief2018.hds.utc.fr/wp-content/uploads/2018/09/programme_fin-2.pdf), Dans F. Cuzzolin, S. Destercke, T. Denoeux et A. Martin, éditeurs, Belief Functions : Theory and Applications, Proc. of the 5th International Conference, BELIEF 2018, Compiègne, France, 17-21 septembre 2018, Vol. 11069 de Lecture Notes in Computer Science, pp. 208-216, Springer, 2018.
@@ -56,11 +56,11 @@ _Asservissement du Tramway Citadis X5 en accélération, et estimation de son ni
 	
 
 # Exposés
-1. Exposé intitulé _Étalonnage actif de classifieurs binaires_, présenté au premier symposium du groupement de recherche MaDICS, Rennes, France, 26-28 juin 2019.  [(invité)](https://www.madics.fr/event/titre1551974198-3309/)
+1. Exposé : _Étalonnage actif de classifieurs binaires_, présenté au premier symposium du groupement de recherche MaDICS, Rennes, France, 26-28 juin 2019.  [(invité)](https://www.madics.fr/event/titre1551974198-3309/)
 
-2. Poster intitulé _Stacking binary classifiers using evidential choquistic regression_, présenté à la cinquième école sur la théorie et l'application des fonctions de croyance ([BFTA2019](https://bfasociety.org/BFTA2019/)), Sienne, Italie, 27-31 octobre 2019
+2. Poster : _Stacking binary classifiers using evidential choquistic regression_, présenté à la cinquième école sur la théorie et l'application des fonctions de croyance ([BFTA2019](https://bfasociety.org/BFTA2019/)), Sienne, Italie, 27-31 octobre 2019
 
-3. [Séminaire](https://www.lgi2a.univ-artois.fr/spip/en/seminars/sebastien-ramel-2020-04-10) intitulé _Régression logistique crédibiliste : application à l’étalonnage actif de classifieurs et extension choquistique_, présenté au LGI2A le 10 Avril 2020.
+3. [Séminaire](https://www.lgi2a.univ-artois.fr/spip/en/seminars/sebastien-ramel-2020-04-10) : _Régression logistique crédibiliste : application à l’étalonnage actif de classifieurs et extension choquistique_, présenté au LGI2A le 10 Avril 2020.
 
 # Enseignements
 09/19-07/20, **Attaché Temporaire d'Enseignement et de Recherche (ATER)**,
