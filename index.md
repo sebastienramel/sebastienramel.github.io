@@ -35,7 +35,7 @@ Mes travaux de recherche abordent principalement les problèmes de classificatio
  
 **Manuscrit** : [Lien](http://www.theses.fr/s164653)
 
-# Récompenses
+# Récompense
 2018, [Prix du meilleur article doctorant](https://www.lgi2a.univ-artois.fr/spip/fr/evenements/prix-du-meilleur-papier-doctorant-pour-sebastien-ramel-obtenu-a-lfa-2018), décerné par le comité de pilotage de la conférence [LFA 2018](https://www.lgi2a.univ-artois.fr/events/lfa2018/), pour l'article intitulé : _Étalonnage évidentiel actif de classifieurs SVM_, co-écrit avec F. Pichon et F. Delmotte
 
 # Publications
