@@ -1,4 +1,4 @@
-# Profile
+# Profil
 Mes travaux de recherche abordent principalement les problèmes de classification fiables impliquant des modèles capables de représenter l’ignorance, induite par une quantité limitée de données d'apprentissage. Dans ce contexte, j'ai en particulier étudié une approche formalisée dans le cadre de la théorie de l’évidence (également appelée théorie des fonctions de croyance), reposant sur une méthode pour l’inférence statistique et la prédiction développée dans ce cadre.
 
 **Mots clés** : _Traitement du signal, Classification fiable, Apprentissage automatique, Apprentissage actif, Classification monotone, Théorie des fonctions de croyance, Incertitude épistémique, Imprécision._
