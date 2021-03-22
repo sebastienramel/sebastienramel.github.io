@@ -1,7 +1,7 @@
 # Profil
 Mes travaux de recherche abordent principalement les problèmes de classification fiables impliquant des modèles capables de représenter l’ignorance, induite par une quantité limitée de données d'apprentissage. Dans ce contexte, j'ai en particulier étudié une approche formalisée dans le cadre de la théorie de l’évidence (également appelée théorie des fonctions de croyance), reposant sur une méthode pour l’inférence statistique et la prédiction développée dans ce cadre.
 
-**Mots clés** : _Traitement du signal, Classification fiable, Apprentissage automatique, Apprentissage actif, Classification monotone, Théorie des fonctions de croyance, Incertitude épistémique, Imprécision._
+**Mots clés** : _Traitement du signal, Classification fiable, Apprentissage automatique, Apprentissage actif, Classification monotone, Théorie des fonctions de croyance, Fusion d'informations, Incertitude épistémique, Imprécision._
 
 # Etude
 2016-2020, **Doctorat** en génie informatique et automatique de l'Université d'Artois, préparé au Laboratoire de Génie Informatique et Automatique de l'Artois [LGI2A](https://www.lgi2a.univ-artois.fr/spip/fr), Béthune, France
