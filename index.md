@@ -94,7 +94,7 @@ Mes travaux de recherche abordent principalement les problèmes de classificatio
 Programmation 
 * procédurale : C, C#, Matlab, R   
 * orientée objet : java, python, C++, visual basic, ada
-* web : HTML, CSS,PHH, javascript, VB.NET
+* web : HTML, CSS, PHP, javascript, VB.NET
 
 Systèmes d'exploitation : Windows, Linux (Debian, Ubuntu)
 
