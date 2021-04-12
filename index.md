@@ -3,7 +3,7 @@ Mes travaux de recherche abordent principalement les problèmes de classificatio
 
 **Mots clés** : _Traitement du signal, Classification fiable, Apprentissage automatique, Apprentissage actif, Classification monotone, Théorie des fonctions de croyance, Fusion d'informations, Incertitude épistémique, Imprécision._
 
-# Etude
+# Etudes
 2016-2020, **Doctorat** en génie informatique et automatique de l'Université d'Artois, préparé au Laboratoire de Génie Informatique et Automatique de l'Artois [LGI2A](https://www.lgi2a.univ-artois.fr/spip/fr), Béthune, France
 
 2008-2014, **Ingénieur** en informatique, École Centrale de Lille, département des systèmes intelligents et interconnectés [IG2I](https://ig2i.centralelille.fr/), Lens, France
