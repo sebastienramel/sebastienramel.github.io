@@ -11,7 +11,9 @@ Mes travaux de recherche abordent principalement les problèmes de classificatio
 2008, **Baccalauréat S**, Pensionnat du Sacré-Cœur, Reims, France 
 
 # Expériences professionnelles
-09/20-08/21, **Chercheur postdoctoral** (CDD 12 mois),  Université d'Artois, Laboratoire de Génie Informatique et Automatique de l'Artois (LGI2A), Béthune
+07/21-12/22, **Chercheur postdoctoral** (CDD 18 mois),  Université de Rouen Normandie, Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes (LITIS), Saint-Étienne-du-Rouvray
+
+09/20-06/21, **Chercheur postdoctoral** (CDD 12 mois),  Université d'Artois, Laboratoire de Génie Informatique et Automatique de l'Artois (LGI2A), Béthune
 
 11/19-08/20, **Attaché Temporaire d'Enseignement et de Recherche** (CDD 10 mois), Université d'Artois,  Laboratoire de Génie Informatique et Automatique de l'Artois (LGI2A), Béthune
 
