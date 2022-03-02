@@ -66,7 +66,7 @@ _Écriture de [ressources pédagogiques](https://docs.realgames.co/homeio/fr/res
 	
 
 # Exposés
-1. Exposé : _Forêt Aléatoire et Clustering Prédictif en Chemoinformatique_, présenté à l’équipe du projet [SCHISM](https://schism.greyc.fr/) du [CERMN](http://www.cermn.unicaen.fr/) à Caen, le 13 décembre 2021.
+1. Exposé : _Forêt Aléatoire et Clustering Prédictif en Chemoinformatique_, présenté à l’équipe du projet [SCHISM](https://schism.greyc.fr/) du [CERMN](http://www.cermn.unicaen.fr/) à Caen, le 13 décembre 2021. (<a href="https://sebastienramel.github.io/folder/Reunion_2_SCHISM.pdf" target="_blank">(PDF)</a>)
 
 2. Séminaire : _Variantes crédibilistes des modèles des cotes proportionnelles basées sur la vraisemblance_, présenté à l'équipe CID de l'Heudiasyc, Compiègne, France, 20 avril 2021.
 
