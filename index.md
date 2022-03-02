@@ -110,7 +110,7 @@ Systèmes d'exploitation : Windows, Linux (Debian, Ubuntu)
 
 Bases de données :  Oracle, Acces,MySQL
 
-Bureautique : Microsoft Office, LibreOffice, LaTeX 
+Bureautique : LaTeX, LibreOffice, Microsoft Office
 
 Analyse de données : Analyse en composantes principales, Apprentissage automatique, Réseaux de neurones, Séparateurs Vaste Marge, Chaînes de Markov Cachées
 
