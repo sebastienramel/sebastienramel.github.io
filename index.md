@@ -102,8 +102,8 @@ _Écriture de [ressources pédagogiques](https://docs.realgames.co/homeio/fr/res
 
 # Compétences
 Programmation 
-* procédurale : C, C#, Matlab, R   
-* orientée objet : java, python, C++, visual basic, ada
+* procédurale : Matlab, C#, C
+* orientée objet : Python, R, java, C++, visual basic, Ada
 * web : HTML, CSS, PHP, javascript, VB.NET
 
 Systèmes d'exploitation : Windows, Linux (Debian, Ubuntu)
@@ -122,8 +122,6 @@ Organisateur de la septième journée régionale des doctorants en génie inform
 
 # Relecteur
 Reviewer pour le journal  Pattern Recognition Letters (PRL), depuis décembre 2021.
-
-
 
 
 # Référents
