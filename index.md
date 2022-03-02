@@ -12,9 +12,11 @@ Mes travaux de recherche abordent principalement les problèmes de classificatio
 
 # Expériences professionnelles
 07/21-12/22, **Chercheur postdoctoral** (CDD 18 mois),  Université de Rouen Normandie, Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes ([LITIS](https://www.litislab.fr/)), Saint-Étienne-du-Rouvray
+
 _Explicabilité des mesures de similarité issues de forêts aléatoires, basée sur les valeurs Shapley de la théorie des jeux_
 
 09/20-06/21, **Chercheur postdoctoral** (CDD 12 mois),  Université d'Artois, Laboratoire de Génie Informatique et Automatique de l'Artois ([LGI2A](https://www.lgi2a.univ-artois.fr/spip/fr/)), Béthune
+
 _Propositions d'une méthode crédibiliste de prédiction d'une variable ordinale et de l'application au modèle de classification des cotes proportionnelles_
 
 11/19-08/20, **Attaché Temporaire d'Enseignement et de Recherche** (CDD 10 mois), Université d'Artois,  Laboratoire de Génie Informatique et Automatique de l'Artois ([LGI2A](https://www.lgi2a.univ-artois.fr/spip/fr/)), Béthune (_Enseignements dispensés au seins des départements Génie Électrique et Informatique Industriel et Réseaux & Télécommunications  de l'IUT de Béthune - Univ. d'Artois_)
