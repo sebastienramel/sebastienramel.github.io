@@ -100,9 +100,6 @@ _Écriture de [ressources pédagogiques](https://docs.realgames.co/homeio/fr/res
 * IUT R&T (Université d'Artois)
 	- Initiation au développement web, 46h de TP
 
-# Administratif
-Organisateur de la septième journée régionale des doctorants en génie informatique, automatique et traitement du signal ([JRDA2017](https://www.lgi2a.univ-artois.fr/events/jrda2017/)) le 30 juin 2017
-
 # Compétences
 Programmation 
 * procédurale : C, C#, Matlab, R   
@@ -118,6 +115,16 @@ Bureautique : Microsoft Office, LibreOffice, LaTeX
 Analyse de données : Analyse en composantes principales, Apprentissage automatique, Réseaux de neurones, Séparateurs Vaste Marge, Chaînes de Markov Cachées
 
 Traitement du signal : Observateurs et filtre de Kalman, commande par platitude, contrôle optimal
+
+# Administratif
+Organisateur de la septième journée régionale des doctorants en génie informatique, automatique et traitement du signal ([JRDA2017](https://www.lgi2a.univ-artois.fr/events/jrda2017/)) le 30 juin 2017
+
+
+# Relecteur
+Reviewer pour le journal  Pattern Recognition Letters (PRL), depuis décembre 2021.
+
+
+
 
 # Référents
 
@@ -144,6 +151,4 @@ Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes (LIT
 Université de Rouen Normandie <br/>
 76800, Saint-Étienne-du-Rouvray, France <br/>
 [simon.bernard@univ-rouen.fr](simon.bernard@univ-rouen.fr)<br/>
-
-
 
