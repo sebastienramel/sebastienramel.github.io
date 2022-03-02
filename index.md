@@ -68,7 +68,7 @@ _Écriture de [ressources pédagogiques](https://docs.realgames.co/homeio/fr/res
 # Exposés
 1. Exposé : _Forêt Aléatoire et Clustering Prédictif en Chemoinformatique_, présenté à l’équipe du projet [SCHISM](https://schism.greyc.fr/) du [CERMN](http://www.cermn.unicaen.fr/) à Caen, le 13 décembre 2021. (<a href="https://sebastienramel.github.io/talks/Reunion_2_SCHISM.pdf" target="_blank">PDF</a>)
 
-2. Séminaire : _Variantes crédibilistes des modèles des cotes proportionnelles basées sur la vraisemblance_, présenté à l'équipe CID de l'Heudiasyc, Compiègne, France, 20 avril 2021. (<a href="https://sebastienramel.github.io/talks/Seminaire_UTC.pdf" target="_blank">PDF</a>)
+2. Séminaire : _Variantes crédibilistes des modèles des cotes proportionnelles basées sur la vraisemblance_, présenté à l'équipe CID de l'Heudiasyc, Compiègne, France, 20 avril 2021. (<a href="https://sebastienramel.github.io/talks/seminaire_UTC.pdf" target="_blank">PDF</a>)
 
 3. [Séminaire](https://www.lgi2a.univ-artois.fr/spip/fr/seminaires/sebastien-ramel-2021-03-09) : _Extension crédibiliste du modèle des cotes proportionnelles basée sur la fonction de vraisemblance_, présenté au LGI2A, Béthune, 9 mars 2021.
 
