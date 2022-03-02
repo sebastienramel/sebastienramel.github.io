@@ -138,5 +138,12 @@ Université de Reims Champagne-Ardenne,
 51687, Reims, France,
 [bernard.riera@univ-reims.fr](mailto:bernard.riera@univ-reims.fr)
 
+**Simon Bernard**
+Maître de Conférence
+Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes (LITIS)
+Université de Rouen Normandie 
+76800, Saint-Étienne-du-Rouvray, France
+[simon.bernard@univ-rouen.fr](simon.bernard@univ-rouen.fr)
+
 
 
