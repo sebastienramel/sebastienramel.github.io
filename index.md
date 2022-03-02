@@ -59,15 +59,17 @@ Mes travaux de recherche abordent principalement les problèmes de classificatio
 	
 
 # Exposés
-1. Séminaire : _Variantes crédibilistes des modèles des cotes proportionnelles basées sur la vraisemblance_, présenté à l'équipe CID de l'Heudiasyc, Compiègne, France, 20 avril 2021.
+1. Exposé : _Forêt Aléatoire et Clustering Prédictif en Chemoinformatique_, présenté à l’équipe du projet [SCHISM](https://schism.greyc.fr/) du [CERMN](http://www.cermn.unicaen.fr/) à Caen, le 13 décembre 2021.
 
-2. [Séminaire](https://www.lgi2a.univ-artois.fr/spip/fr/seminaires/sebastien-ramel-2021-03-09) : _Extension crédibiliste du modèle des cotes proportionnelles basée sur la fonction de vraisemblance_, présenté au LGI2A, Béthune, 9 mars 2021.
+2. Séminaire : _Variantes crédibilistes des modèles des cotes proportionnelles basées sur la vraisemblance_, présenté à l'équipe CID de l'Heudiasyc, Compiègne, France, 20 avril 2021.
 
-3. [Séminaire](https://www.lgi2a.univ-artois.fr/spip/en/seminars/sebastien-ramel-2020-04-10) : _Régression logistique crédibiliste : application à l’étalonnage actif de classifieurs et extension choquistique_, présenté au LGI2A, Béthune, 10 avril 2020.
+3. [Séminaire](https://www.lgi2a.univ-artois.fr/spip/fr/seminaires/sebastien-ramel-2021-03-09) : _Extension crédibiliste du modèle des cotes proportionnelles basée sur la fonction de vraisemblance_, présenté au LGI2A, Béthune, 9 mars 2021.
 
-4. Poster : _Stacking binary classifiers using evidential choquistic regression_, présenté à la cinquième école sur la théorie et l'application des fonctions de croyance ([BFTA2019](https://bfasociety.org/BFTA2019/)), Sienne, Italie, 27-31 octobre 2019
+4. [Séminaire](https://www.lgi2a.univ-artois.fr/spip/en/seminars/sebastien-ramel-2020-04-10) : _Régression logistique crédibiliste : application à l’étalonnage actif de classifieurs et extension choquistique_, présenté au LGI2A, Béthune, 10 avril 2020.
 
-5. Exposé : _Étalonnage actif de classifieurs binaires_, présenté au premier symposium du groupement de recherche MaDICS, Rennes, France, 26-28 juin 2019.  [(invité)](https://www.madics.fr/event/titre1551974198-3309/)
+5. Poster : _Stacking binary classifiers using evidential choquistic regression_, présenté à la cinquième école sur la théorie et l'application des fonctions de croyance ([BFTA2019](https://bfasociety.org/BFTA2019/)), Sienne, Italie, 27-31 octobre 2019
+
+6. Exposé : _Étalonnage actif de classifieurs binaires_, présenté au premier symposium du groupement de recherche MaDICS, Rennes, France, 26-28 juin 2019.  [(invité)](https://www.madics.fr/event/titre1551974198-3309/)
 
 # Enseignements
 09/19-07/20, **Attaché Temporaire d'Enseignement et de Recherche (ATER)**,
@@ -119,14 +121,6 @@ Département Génie Industriel et Logistique,
 Université d'Artois,
 62400, Béthune, France,
 [frederic.pichon@univ-artois.fr](mailto:frederic.pichon@univ-artois.fr)
-
-**David Jouglet**,
-Maître de conférence,
-Institut Universitaire de Technologie,
-Département Génie Électrique et Informatique Industriel,
-Université d'Artois,
-62400, Béthune, France,
-[david.jouglet@univ-artois.fr](mailto:david.jouglet@univ-artois.fr)
 
 
 **Bernard Riera**
