@@ -11,8 +11,7 @@ Mes travaux de recherche abordent principalement les problèmes de classificatio
 2008, **Baccalauréat S**, Pensionnat du Sacré-Cœur, Reims, France 
 
 # Expériences professionnelles
-07/21-12/22, **Chercheur postdoctoral** (CDD 18 mois),  Université de Rouen Normandie, Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes ([LITIS](https://www.litislab.fr/)), Saint-Étienne-du-Rouvray
-
+07/21-12/22, **Chercheur postdoctoral** (CDD 18 mois),  Université de Rouen Normandie, Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes ([LITIS](https://www.litislab.fr/)), Saint-Étienne-du-Rouvray <br/>
 _Explicabilité des mesures de similarité issues de forêts aléatoires, basée sur les valeurs Shapley de la théorie des jeux_
 
 09/20-06/21, **Chercheur postdoctoral** (CDD 12 mois),  Université d'Artois, Laboratoire de Génie Informatique et Automatique de l'Artois ([LGI2A](https://www.lgi2a.univ-artois.fr/spip/fr/)), Béthune
