@@ -11,11 +11,11 @@ Mes travaux de recherche abordent principalement les problèmes de classificatio
 2008, **Baccalauréat S**, Pensionnat du Sacré-Cœur, Reims, France 
 
 # Expériences professionnelles
-07/21-12/22, **Chercheur postdoctoral** (CDD 18 mois),  Université de Rouen Normandie, Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes (LITIS), Saint-Étienne-du-Rouvray
+07/21-12/22, **Chercheur postdoctoral** (CDD 18 mois),  Université de Rouen Normandie, Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes ([LITIS](https://www.litislab.fr/)), Saint-Étienne-du-Rouvray (_Explicabilité des mesures de similarité issues de forêts aléatoires, basée sur les valeurs Shapley de la théorie des jeux_) 
 
-09/20-06/21, **Chercheur postdoctoral** (CDD 12 mois),  Université d'Artois, Laboratoire de Génie Informatique et Automatique de l'Artois (LGI2A), Béthune
+09/20-06/21, **Chercheur postdoctoral** (CDD 12 mois),  Université d'Artois, Laboratoire de Génie Informatique et Automatique de l'Artois ([LGI2A](https://www.lgi2a.univ-artois.fr/spip/fr/)), Béthune (_Propositions d'une méthode crédibiliste de prédiction d'une variable ordinale et de l'application au modèle de classification des cotes proportionnelles_) 
 
-11/19-08/20, **Attaché Temporaire d'Enseignement et de Recherche** (CDD 10 mois), Université d'Artois,  Laboratoire de Génie Informatique et Automatique de l'Artois (LGI2A), Béthune
+11/19-08/20, **Attaché Temporaire d'Enseignement et de Recherche** (CDD 10 mois), Université d'Artois,  Laboratoire de Génie Informatique et Automatique de l'Artois ([LGI2A](https://www.lgi2a.univ-artois.fr/spip/fr/)), Béthune (_Enseignements dispensés au seins des départements Génie Électrique et Informatique Industriel et Réseaux & Télécommunications  de l'IUT de Béthune - Univ. d'Artois_)
 
 06/16-10/16, **Ingénieur consultant** (CDD 5 mois), SATT Nord en mission au Centre de Recherche en Sciences et Technologies de l'Information et de la Communication ([CReSTIC](https://crestic.univ-reims.fr/)) de l'Université de Reims Champagne-Ardenne, Reims (_Simulation de systèmes dynamiques continues pédagogiques pour l'apprentissage de l'automatique_)
 
@@ -94,7 +94,7 @@ Mes travaux de recherche abordent principalement les problèmes de classificatio
 	- Initiation au développement web, 46h de TP
 
 # Administratif
-2017, Organisateur de la septième journée régionale des doctorants en génie informatique, automatique et traitement du signal ([JRDA2017](https://www.lgi2a.univ-artois.fr/events/jrda2017/)) le 30 juin 2017
+Organisateur de la septième journée régionale des doctorants en génie informatique, automatique et traitement du signal ([JRDA2017](https://www.lgi2a.univ-artois.fr/events/jrda2017/)) le 30 juin 2017
 
 # Compétences
 Programmation 
