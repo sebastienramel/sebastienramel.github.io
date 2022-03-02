@@ -14,19 +14,23 @@ Mes travaux de recherche abordent principalement les problèmes de classificatio
 07/21-12/22, **Chercheur postdoctoral** (CDD 18 mois),  Université de Rouen Normandie, Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes ([LITIS](https://www.litislab.fr/)), Saint-Étienne-du-Rouvray <br/>
 _Explicabilité des mesures de similarité issues de forêts aléatoires, basée sur les valeurs Shapley de la théorie des jeux_
 
-09/20-06/21, **Chercheur postdoctoral** (CDD 12 mois),  Université d'Artois, Laboratoire de Génie Informatique et Automatique de l'Artois ([LGI2A](https://www.lgi2a.univ-artois.fr/spip/fr/)), Béthune
-
+09/20-06/21, **Chercheur postdoctoral** (CDD 12 mois),  Université d'Artois, Laboratoire de Génie Informatique et Automatique de l'Artois ([LGI2A](https://www.lgi2a.univ-artois.fr/spip/fr/)), Béthune <br/>
 _Propositions d'une méthode crédibiliste de prédiction d'une variable ordinale et de l'application au modèle de classification des cotes proportionnelles_
 
-11/19-08/20, **Attaché Temporaire d'Enseignement et de Recherche** (CDD 10 mois), Université d'Artois,  Laboratoire de Génie Informatique et Automatique de l'Artois ([LGI2A](https://www.lgi2a.univ-artois.fr/spip/fr/)), Béthune (_Enseignements dispensés au seins des départements Génie Électrique et Informatique Industriel et Réseaux & Télécommunications  de l'IUT de Béthune - Univ. d'Artois_)
+11/19-08/20, **Attaché Temporaire d'Enseignement et de Recherche** (CDD 10 mois), Université d'Artois,  Laboratoire de Génie Informatique et Automatique de l'Artois ([LGI2A](https://www.lgi2a.univ-artois.fr/spip/fr/)), Béthune <br/> 
+_Enseignements dispensés au seins des départements Génie Électrique et Informatique Industriel et Réseaux & Télécommunications  de l'IUT de Béthune - Univ. d'Artois_
 
-06/16-10/16, **Ingénieur consultant** (CDD 5 mois), SATT Nord en mission au Centre de Recherche en Sciences et Technologies de l'Information et de la Communication ([CReSTIC](https://crestic.univ-reims.fr/)) de l'Université de Reims Champagne-Ardenne, Reims (_Simulation de systèmes dynamiques continues pédagogiques pour l'apprentissage de l'automatique_)
+06/16-10/16, **Ingénieur consultant** (CDD 5 mois), SATT Nord en mission au Centre de Recherche en Sciences et Technologies de l'Information et de la Communication ([CReSTIC](https://crestic.univ-reims.fr/)) de l'Université de Reims Champagne-Ardenne, Reims <br/>
+_Simulation de systèmes dynamiques continues pédagogiques pour l'apprentissage de l'automatique_
 
-06/15-05/16, **Ingénieur consultant** (CDI) ALTEN France, Boulogne-Billancourt (_En mission chez PSA au sein de la Filière Technique de Post Traitement pour la certification anti pollution automobile_)
+06/15-05/16, **Ingénieur consultant** (CDI) ALTEN France, Boulogne-Billancourt <br/>
+_En mission chez PSA au sein de la Filière Technique de Post Traitement pour la certification anti pollution automobile_
 
-10/14-05/15, **Ingénieur d'étude** (CDD 8 mois), Université de Reims Champagne-Ardenne,   Centre de Recherche en Sciences et Technologies de l'Information et de la Communication ([CReSTIC](https://crestic.univ-reims.fr/)), Reims (_Écriture de [ressources pédagogiques](https://docs.realgames.co/homeio/fr/resources-list/#ressources_complementaires) sur l'interfaçage de parties opératives simulées - développés par [Real Games](https://realgames.co/) - avec des composants extérieurs_)
+10/14-05/15, **Ingénieur d'étude** (CDD 8 mois), Université de Reims Champagne-Ardenne,   Centre de Recherche en Sciences et Technologies de l'Information et de la Communication ([CReSTIC](https://crestic.univ-reims.fr/)), Reims <br/>
+_Écriture de [ressources pédagogiques](https://docs.realgames.co/homeio/fr/resources-list/#ressources_complementaires) sur l'interfaçage de parties opératives simulées - développés par [Real Games](https://realgames.co/) - avec des composants extérieurs_
  
- 02/14-07/14, **Stage ingénieur** (CDD 6 mois), Alstom Transport, Aytre (_Asservissement en accélération du Tramway Citadis X5, et estimation de son niveau de charge_)
+ 02/14-07/14, **Stage ingénieur** (CDD 6 mois), Alstom Transport, Aytre <br/>
+ _Asservissement en accélération du Tramway Citadis X5, et reconstruction de son niveau de charge_
 
 # Doctorat
 **Titre** : Régression logistique crédibiliste : application à l’étalonnage actif de classifieurs et extension choquistique
