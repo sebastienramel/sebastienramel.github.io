@@ -121,29 +121,29 @@ Traitement du signal : Observateurs et filtre de Kalman, commande par platitude,
 
 # Référents
 
-**Frédéric Pichon**,
-Professeur des Universités,
-Laboratoire de Génie Informatique et Automatique de l'Artois (LGI2A),
-Département Génie Industriel et Logistique,
-Université d'Artois,
-62400, Béthune, France,
+**Frédéric Pichon** <br/>
+Professeur des Universités <br/>
+Laboratoire de Génie Informatique et Automatique de l'Artois (LGI2A)<br/>
+Département Génie Industriel et Logistique<br/>
+Université d'Artois<br/>
+62400, Béthune, France<br/>
 [frederic.pichon@univ-artois.fr](mailto:frederic.pichon@univ-artois.fr)
 
 
-**Bernard Riera**
-Professeur des Universités,
-Centre de Recherche en Sciences et Technologies de l'Information et de la Communication (CReSTIC),
-Département Automatique et Traitement du Signal,
-Université de Reims Champagne-Ardenne,
-51687, Reims, France,
+**Bernard Riera**<br/>
+Professeur des Universités<br/>
+Centre de Recherche en Sciences et Technologies de l'Information et de la Communication (CReSTIC)<br/>
+Département Automatique et Traitement du Signal<br/>
+Université de Reims Champagne-Ardenne<br/>
+51687, Reims, France<br/>
 [bernard.riera@univ-reims.fr](mailto:bernard.riera@univ-reims.fr)
 
-**Simon Bernard**
-Maître de Conférence
-Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes (LITIS)
-Université de Rouen Normandie 
-76800, Saint-Étienne-du-Rouvray, France
-[simon.bernard@univ-rouen.fr](simon.bernard@univ-rouen.fr)
+**Simon Bernard**<br/>
+Maître de Conférence<br/>
+Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes (LITIS)<br/>
+Université de Rouen Normandie <br/>
+76800, Saint-Étienne-du-Rouvray, France <br/>
+[simon.bernard@univ-rouen.fr](simon.bernard@univ-rouen.fr)<br/>
 
 
 
