@@ -1,5 +1,5 @@
 # Profil
-Mes travaux de recherche s'inscrivent principalement au sein de deux axes de l'apprentissage automatique, à savoir celui de la classification fiable  impliquant des modèles capables de représenter l’ignorance (due à un manque de données d'apprentissage) et celui de l'intelligence artificielle explicable  basée sur la contribution des caractéristiques dans les prédictions de modèles complexes. Plus précisément, au sujet de la classification prudente, j'étudie l'extension de classifieurs probabilistes au cadre théorique de l’évidence (ou théorie des fonctions de croyance), via une méthode pour l’inférence statistique et la prédiction développée dans ce cadre. Dans le second domaine, je m'intéresse à l'explicabilité des mesures de proximités de paires d'instances retournées par des forêts aléatoires, via une méthode inspirée du concept de solution des valeurs Shapley de la théorie des jeux.
+Mes travaux de recherche s'inscrivent principalement au sein de deux axes de l'apprentissage automatique, à savoir celui de la _classification prudente_ impliquant des modèles capables de représenter l’ignorance (due à un manque de données d'apprentissage) et celui de _intelligence artificielle explicable_ basée sur la contribution des caractéristiques dans les prédictions de modèles complexes. Plus précisément, au sujet de la classification prudente, j'étudie l'extension de classifieurs probabilistes au cadre théorique de l’évidence (ou théorie des fonctions de croyance), via une méthode pour l’inférence statistique et la prédiction développée dans ce cadre. Dans le second axe, je m'intéresse à l'explicabilité des mesures de proximités de paires d'instances retournées par des forêts aléatoires, via une méthode inspirée du concept de solution des valeurs Shapley de la théorie des jeux.\\
 
 **Mots clés** : _Apprentissage automatique, Classification fiable, Théorie des fonctions de croyance, Incertitude épistémique, Explicabilité, Valeurs Shapley, Forêts aléatoires, Intégrale de Choquet, Régression logistique, Réseaux de neurones._
 
@@ -117,6 +117,8 @@ Bureautique : LaTeX, LibreOffice, Microsoft Office
 Analyse de données : Analyse en composantes principales, Apprentissage automatique, Réseaux de neurones, Séparateurs Vaste Marge, Chaînes de Markov Cachées
 
 Traitement du signal : Observateurs et filtre de Kalman, commande par platitude, contrôle optimal
+
+Représentation de l'incertitude : Théorie des probabilités, théorie des fonctions de croyance, probabilités imprécises
 
 # Administratif
 Organisateur de la septième journée régionale des doctorants en génie informatique, automatique et traitement du signal ([JRDA2017](https://www.lgi2a.univ-artois.fr/events/jrda2017/)) le 30 juin 2017
