@@ -85,14 +85,14 @@ _Écriture de [ressources pédagogiques](https://docs.realgames.co/homeio/fr/res
 	- Automatique, 24h de TP (systèmes linéaires du premier et du second ordre, stabilité, identification et régulation)
 	- Programmation Orientée Objet, 16h de TP (introduction à java, utilisation de l'IDE éclipse, notions d'héritage et d'interfaces)
 	-  Réseaux, 24h de TP (programmation réseaux : sockets, threads, serveur http, analyses de trames IP)
-	-  Supervision, 38h de TP (automatisme, systèmes à événements discrets, grafcet)
+	-  Supervision, 38h de TP (automatisme, systèmes à événements discrets, grafcet) <br/>
 <img src="https://sebastienramel.github.io/images/ensGEII.png" alt="enseignement GEII" width="300">
 * Département Réseaux & Télécommunications (R&T)
 	-  Initiation au développement web, 6h de TD et 18h de TP (web statique HTML et CSS, standards W3C, librairie bootstrap)
 	-  Base de la programmation, 6h de TD (algorithme, variables, boucles, opérations)
 	-  Technologies de l’internet, 32h de TP (adressage et routage ipv4, modèles osi, tcp/ip et protocoles associés)
 	-  Web Dynamique, 18h de TP (programmation serveur php, système de gestion de bases de données relationnelles MySQL)
-	-  Programmation avancée, 10h de TP (encapsulation, héritage, interfaces, polymorphisme)
+	-  Programmation avancée, 10h de TP (encapsulation, héritage, interfaces, polymorphisme) <br/>
 <img src="https://sebastienramel.github.io/images/ensRT.png" alt="enseignement RT" width="300">
 
 09/17-07/18, **Missions doctorales**,
