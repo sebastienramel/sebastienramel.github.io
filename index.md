@@ -125,7 +125,7 @@ Organisateur de la septième journée régionale des doctorants en génie inform
 
 
 # Relecteur
-Reviewer pour le journal  Pattern Recognition Letters (PRL), depuis décembre 2021.
+Membre du comité de lecture de la revue Pattern Recognition Letters (PRL), depuis décembre 2021
 
 
 # Référents
