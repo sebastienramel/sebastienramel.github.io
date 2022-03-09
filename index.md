@@ -86,6 +86,7 @@ _Écriture de [ressources pédagogiques](https://docs.realgames.co/homeio/fr/res
 	- Programmation Orientée Objet, 16h de TP (introduction à java, utilisation de l'IDE éclipse, notions d'héritage et d'interfaces)
 	-  Réseaux, 24h de TP (programmation réseaux : sockets, threads, serveur http, analyses de trames IP)
 	-  Supervision, 38h de TP (automatisme, systèmes à événements discrets, grafcet)
+<img src="https://sebastienramel.github.io/images/ensGEII.png" alt="enseignement GEII">
 * Département Réseaux & Télécommunications (R&T)
 	-  Initiation au développement web, 6h de TD et 18h de TP (web statique HTML et CSS, standards W3C, librairie bootstrap)
 	-  Base de la programmation, 6h de TD (algorithme, variables, boucles, opérations)
