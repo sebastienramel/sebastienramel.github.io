@@ -14,13 +14,13 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <center><h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1></center>
         
         {% if site.logo %} 
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        <center><img src="{{site.logo | relative_url}}" alt="Logo" /></center>
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}<br>(qualifié aux fonctions de MCF par le CNU, sections 27 et 61)</p>        
+        <center><p>{{ site.description | default: site.github.project_tagline }}<br>(qualifié aux fonctions de MCF par le CNU, sections 27 et 61)</p></center>
         
         <p>LITIS - Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes - EA 4108<br>
         Université de Rouen Normandie<br>
