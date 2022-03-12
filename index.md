@@ -33,6 +33,8 @@ _Écriture de [ressources pédagogiques](https://docs.realgames.co/homeio/fr/res
  _Asservissement en accélération du Tramway Citadis X5, et reconstruction de son niveau de charge_
 
 # Doctorat
+**Spécialité** : Génie Informatique et Automatique
+
 **Titre** : Régression logistique crédibiliste : application à l’étalonnage actif de classifieurs et extension choquistique
 
 **Jury** :
