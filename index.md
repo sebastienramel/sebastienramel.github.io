@@ -110,7 +110,7 @@ Programmation
 
 Systèmes d'exploitation : Windows, Linux (Debian, Ubuntu)
 
-Bases de données :  Oracle, Acces, MySQL
+Bases de données :  Oracle, Acces, SQL
 
 Bureautique : LaTeX, LibreOffice, Microsoft Office
 
