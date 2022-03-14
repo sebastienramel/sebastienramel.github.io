@@ -129,6 +129,8 @@ Organisateur de la septième journée régionale des doctorants en génie inform
 # Relecteur
 Membre du comité de lecture de la revue Pattern Recognition Letters (PRL), depuis décembre 2021
 
+Membre du comité de lecture de la revue Pattern Recognition (PR), depuis mars 2022
+
 
 # Référents
 
